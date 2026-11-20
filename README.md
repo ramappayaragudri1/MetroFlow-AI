@@ -281,7 +281,7 @@ MetroAI uses structured datasets containing:
 Information Science & Engineering  
 KLS Gogte Institute of Technology, Belagavi
 
-GitHub: [ramappayaragudri1]((https://github.com/ramappayaragudri1/))
+GitHub: [ramappayaragudri1](https://github.com/ramappayaragudri1)
 
 ---
 
