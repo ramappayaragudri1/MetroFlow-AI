@@ -276,12 +276,12 @@ MetroAI uses structured datasets containing:
 
 ## 👨‍💻 Developer
 
-**Prajay Chandrashekhar Ganiga**
+**Ramappa B. Yaragudri**
 
 Information Science & Engineering  
 KLS Gogte Institute of Technology, Belagavi
 
-GitHub: [prajayganiga-design](https://github.com/prajayganiga-design)
+GitHub: [ramappayaragudri1](https://github.com/ramappayaragudri1)
 
 ---
 
