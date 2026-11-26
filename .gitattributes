@@ -1,3 +1,2 @@
-﻿# Tell GitHub Linguist to count these as project languages
 static/css/*.css linguist-vendored=false linguist-detectable=true
 static/js/*.js linguist-vendored=false linguist-detectable=true
