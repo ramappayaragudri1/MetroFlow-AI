@@ -286,3 +286,11 @@ GitHub: [ramappayaragudri1](https://github.com/ramappayaragudri1)
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+
+
+
+After setup
+cd C:\Users\rames\Downloads\MetroAI
+.\.venv\Scripts\Activate.ps1
+cd .\MetroAI
+python app.py
